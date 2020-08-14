@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "online-shop-3d2e0"
+  },
+  "targets": {
+    "mosh-online-shop": {
+      "hosting": {
+        "online-shop-mosh": [
+          "mosh-online-shop"
+        ]
+      }
+    },
+    "online-shop-3d2e0": {
+      "hosting": {
+        "online-shop-mosh": [
+          "online-shop-3d2e0"
+        ]
+      }
+    }
+  }
+}
